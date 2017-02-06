@@ -1,0 +1,35 @@
+html, body {margin:0;padding:0;height:100%;
+background-color: #E6E6E6;}
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-1{
+  background-color: #F4DEB5;
+}
+
+h1{
+  font-size: 72px;
+}
+
+.bg-2{
+  background-color: #91BA91;
+  height: 100%;
+}
+
+.margin-top{
+  padding-top: 20px;
+}
+
+.nav-title{
+  color: #E4D7B1;
+}
+.nav-content{
+  color:#FFFFFF;
+}
+
+.game{
+  padding-left: 40px;
+  padding-top: 20px;
+}
